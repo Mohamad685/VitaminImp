@@ -6,3 +6,19 @@
     text-align:center;
     background-color: beige;
 }
+
+.body-style{
+    margin: 20px;
+    background-color:rgb(246, 246, 234);
+    padding: 10px;
+    font-size: 17px;
+    width: 600px;
+}
+.vitamin-role{
+    margin-left: 585px;
+    margin-right: 20px;
+}
+
+.table-style{
+    width: 100%;
+}
