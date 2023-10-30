@@ -22,3 +22,18 @@
 .table-style{
     width: 100%;
 }
+
+.vdimg-style{
+    float: inline-end;
+    width: 400px;
+    height: 300px;
+    margin-inline-end: 20px;
+    margin-top: 30px;
+}
+.fcimg-style{
+    float: inline-start;
+    width: 550px;
+    height: 470px;
+    margin-inline-start: 20px;
+
+}
