@@ -37,3 +37,15 @@
     margin-inline-start: 20px;
 
 }
+.deimg-style{
+    float: inline-end;
+    width: 500px;
+    height: 400px;
+    margin-inline-end: 60px;
+    
+}
+.srcimg-style{
+    margin-inline-end: 30px;
+    width: 550px;
+    margin-top: 18px;
+}
